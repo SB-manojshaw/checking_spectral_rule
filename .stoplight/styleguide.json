@@ -17,6 +17,9 @@
     },
     "info-description": {
       "severity": "off"
+    },
+    "path-params": {
+      "severity": "off"
     }
   },
   "extendedDefault": false
